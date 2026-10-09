@@ -418,4 +418,7 @@ Terraform • Kubernetes • Git • GitHub • Flask
 
 ---
 
+Instance 1: http://35.154.220.4:5000
+Instance 2: http://65.0.108.247:5000
+
 ⭐ If you found this project useful, consider giving the repository a star!
